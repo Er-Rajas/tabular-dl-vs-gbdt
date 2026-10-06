@@ -219,6 +219,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-/data/raw/*.csv
-/data/processed/*.csv
+/data/raw/targets/*.csv
+/data/raw/features/*.csv
+/data/processed/target/*.csv
+/data/processed/features/*.csv
 /data
